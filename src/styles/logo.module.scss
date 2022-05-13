@@ -1,0 +1,19 @@
+.container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+
+	.text {
+		color: #fff;
+		font-size: 2rem;
+		font-weight: bold;
+		letter-spacing: 2px;
+	}
+
+	.dot {
+		color: red;
+		font-size: 2rem;
+		font-weight: bold;
+		margin-left: 2px;
+	}
+}
